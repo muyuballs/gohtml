@@ -1,7 +1,7 @@
 package gohtml
 
 const (
-	defaultIndentString = "  "
+	defaultIndentString = "    "
 	startIndent         = 0
 	defaultLastElement  = "</html>"
 )
